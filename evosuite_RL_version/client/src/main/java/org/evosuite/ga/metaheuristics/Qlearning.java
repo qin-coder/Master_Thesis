@@ -229,7 +229,7 @@ public class Qlearning {
 
 
         double reward = episodeResult[4];
-        double newQ = episodeResult[5]; // 从结果数组中获取newQ值
+        double newQ = episodeResult[5]; 
         LoggingUtils.getEvoLogger().info("Successfully running experiment");
 
         // Write Q-table to file
