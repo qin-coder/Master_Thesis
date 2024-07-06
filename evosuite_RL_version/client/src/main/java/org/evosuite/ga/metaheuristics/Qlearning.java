@@ -29,7 +29,6 @@ class Environment {
 
     public double[] step(int action, double currentFitness,double parentFitness, double numCrossoverRate, double numMutationRate) {
         double fitnessDifference = parentFitness - currentFitness;
-        //double fitnessDifference = currentFitness - parentFitness;
         double crossoverChange = numCrossoverRate - previousCrossoverRate;
         double mutationChange = numMutationRate - previousMutationRate;
 
