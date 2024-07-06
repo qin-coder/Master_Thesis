@@ -1,0 +1,6868 @@
+------------------------QLearning------------------------
+Episodes : 1
+Parent Fitness:3867.0
+Current Fitness:3867.0
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.1998
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3867.0
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 2
+Parent Fitness:3247.487261146497
+Current Fitness:3247.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.1998
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3247.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 3
+Parent Fitness:3247.487261146497
+Current Fitness:3247.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.1996002
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3247.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 4
+Parent Fitness:3247.487261146497
+Current Fitness:3247.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.1996002
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3247.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 5
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19940059980000002
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 6
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19940059980000002
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 7
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19920119920020002
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 8
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19920119920020002
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 9
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19900199800099982
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 10
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19900199800099982
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 11
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19880299600299883
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 12
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19860797404495786
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 13
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19880299600299883
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 14
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19860419300699583
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 15
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19840936607091292
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 16
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19840558881398884
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 17
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19820725499305641
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 18
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.198210956704842
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 19
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19801274574813718
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 20
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19800904773806335
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 21
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19781473300238905
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 22
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.1978110386903253
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 23
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19761691826938665
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 24
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19761322765163497
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 25
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19741930135111727
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 26
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.1974156144239833
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 27
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19722188204976615
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 28
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19721819880955932
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 29
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19702466016771636
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 30
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19702098061074977
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 31
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19682763550754864
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 32
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19682395963013902
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 33
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.1966308078720411
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 34
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19662713567050888
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 35
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19643417706416905
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 36
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19643050853483837
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 37
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19623774288710485
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 38
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19623407802630355
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 39
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19604150514421775
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 40
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19603784394827722
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 41
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19584546363907354
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 42
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19584180610432894
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 43
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19564961817543444
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 1
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 44
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19564596429822462
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 45
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.195453968557259
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 46
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.1954503183339264
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 47
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19525851458870175
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 48
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19525486801559247
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 49
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19506325607411304
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 50
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19505961314757686
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 51
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 0.0
+newQ: 0.19486819281803894
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.67
+3: 0.75
+4: 0.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 52
+Parent Fitness:1174.9687499990282
+Current Fitness:3208.487261146497
+Difference Fitness:-2033.5185111474689
+Reward: -1.0
+newQ: 0.17495842088462532
+Current crossover rate: 0.67
+Current mutation rate: 0.75
+State: 3
+Action: 0
+0: 3.0
+1: 3208.487261146497
+2: 0.6633
+3: 0.7575000000000001
+4: -1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 53
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 5.9000000000000174E-5
+newQ: 0.1946745046252209
+Current crossover rate: 0.6633
+Current mutation rate: 0.7575000000000001
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.663299608653
+3: 0.7575004469250001
+4: 5.9000000000000174E-5
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 54
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 5.900335769000064E-5
+newQ: 0.19448101018774946
+Current crossover rate: 0.663299608653
+Current mutation rate: 0.7575004469250001
+State: 1
+Action: 1
+0: 1.0
+1: 3208.487261146497
+2: 0.6632992172839594
+3: 0.7575008938756983
+4: 5.900335769000064E-5
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 55
+Parent Fitness:1174.9687499990282
+Current Fitness:3208.487261146497
+Difference Fitness:-2033.5185111474689
+Reward: -1.0
+newQ: 0.17439138998399448
+Current crossover rate: 0.6632992172839594
+Current mutation rate: 0.7575008938756983
+State: 3
+Action: 0
+0: 3.0
+1: 3208.487261146497
+2: 0.669932209456799
+3: 0.7499258849369413
+4: -1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 56
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.14660233434483E-7
+newQ: 0.17478347475694536
+Current crossover rate: 0.669932209456799
+Current mutation rate: 0.7499258849369413
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322135746059
+3: 0.7499258803274451
+4: 6.14660233434483E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 57
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.145317823347262E-7
+newQ: 0.17460870357282407
+Current crossover rate: 0.6699322135746059
+Current mutation rate: 0.7499258803274451
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322176915522
+3: 0.7499258757189122
+4: 6.145317823347262E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 58
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.144033580790519E-7
+newQ: 0.17443410715731839
+Current crossover rate: 0.6699322176915522
+Current mutation rate: 0.7499258757189122
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322218076382
+3: 0.7499258711113425
+4: 6.144033580790519E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 59
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142749606607989E-7
+newQ: 0.17425968533566027
+Current crossover rate: 0.6699322218076382
+Current mutation rate: 0.7499258711113425
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259228642
+3: 0.7499258665047356
+4: 6.142749606607989E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 60
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141465900733057E-7
+newQ: 0.17421701087694227
+Current crossover rate: 0.6699322259228642
+Current mutation rate: 0.7499258665047356
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322218084982
+3: 0.7499258711103798
+4: 6.141465900733057E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 61
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142749338344799E-7
+newQ: 0.1740854379358233
+Current crossover rate: 0.6699322218084982
+Current mutation rate: 0.7499258711103798
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259237239
+3: 0.7499258665037731
+4: 6.142749338344799E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 62
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.14146563253648E-7
+newQ: 0.1740428061489966
+Current crossover rate: 0.6699322259237239
+Current mutation rate: 0.7499258665037731
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322218093582
+3: 0.749925871109417
+4: 6.14146563253648E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 63
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142749070070507E-7
+newQ: 0.1739113647833856
+Current crossover rate: 0.6699322218093582
+Current mutation rate: 0.749925871109417
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259245837
+3: 0.7499258665028106
+4: 6.142749070070507E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 64
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141465364328802E-7
+newQ: 0.17386877562577832
+Current crossover rate: 0.6699322259245837
+Current mutation rate: 0.7499258665028106
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322218102182
+3: 0.7499258711084543
+4: 6.141465364328802E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 65
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142748801807318E-7
+newQ: 0.1737374657040998
+Current crossover rate: 0.6699322218102182
+Current mutation rate: 0.7499258711084543
+State: 1
+Action: 1
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259254434
+3: 0.7499258665018481
+4: 6.142748801807318E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 66
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141465096132225E-7
+newQ: 0.17369491913308274
+Current crossover rate: 0.6699322259254434
+Current mutation rate: 0.7499258665018481
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.669932221811078
+3: 0.7499258711074916
+4: 6.141465096132225E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 67
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142748533566333E-7
+newQ: 0.17356374052389276
+Current crossover rate: 0.669932221811078
+Current mutation rate: 0.7499258711074916
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259263032
+3: 0.7499258665008856
+4: 6.142748533566333E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 68
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141464827924548E-7
+newQ: 0.1735212364968793
+Current crossover rate: 0.6699322259263032
+Current mutation rate: 0.7499258665008856
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.669932221811938
+3: 0.749925871106529
+4: 6.141464827924548E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 69
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142748265303143E-7
+newQ: 0.1733901890688654
+Current crossover rate: 0.669932221811938
+Current mutation rate: 0.749925871106529
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259271631
+3: 0.7499258664999231
+4: 6.142748265303143E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 70
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141464559705768E-7
+newQ: 0.17334772754331154
+Current crossover rate: 0.6699322259271631
+Current mutation rate: 0.7499258664999231
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.669932221812798
+3: 0.7499258711055663
+4: 6.141464559705768E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 71
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142747997039954E-7
+newQ: 0.17321681116529253
+Current crossover rate: 0.669932221812798
+Current mutation rate: 0.7499258711055663
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259280228
+3: 0.7499258664989606
+4: 6.142747997039954E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 72
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141464291509191E-7
+newQ: 0.1731743920986968
+Current crossover rate: 0.6699322259280228
+Current mutation rate: 0.7499258664989606
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.669932221813658
+3: 0.7499258711046035
+4: 6.141464291509191E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 73
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142747728765663E-7
+newQ: 0.17304360663962268
+Current crossover rate: 0.669932221813658
+Current mutation rate: 0.7499258711046035
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259288826
+3: 0.7499258664979981
+4: 6.142747728765663E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 74
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141464023301514E-7
+newQ: 0.17300122998952613
+Current crossover rate: 0.6699322259288826
+Current mutation rate: 0.7499258664979981
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.669932221814518
+3: 0.7499258711036408
+4: 6.141464023301514E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 75
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142747460502473E-7
+newQ: 0.172870575318478
+Current crossover rate: 0.669932221814518
+Current mutation rate: 0.7499258711036408
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259297423
+3: 0.7499258664970356
+4: 6.142747460502473E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 76
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141463755104936E-7
+newQ: 0.1728282410424641
+Current crossover rate: 0.6699322259297423
+Current mutation rate: 0.7499258664970356
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322218153778
+3: 0.7499258711026782
+4: 6.141463755104936E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 77
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142747192261489E-7
+newQ: 0.1726977170286539
+Current crossover rate: 0.6699322218153778
+Current mutation rate: 0.7499258711026782
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322259306021
+3: 0.7499258664960731
+4: 6.142747192261489E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 78
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141463486897259E-7
+newQ: 0.17265542508434864
+Current crossover rate: 0.6699322259306021
+Current mutation rate: 0.7499258664960731
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322218162378
+3: 0.7499258711017155
+4: 6.141463486897259E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 79
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.142746923998299E-7
+newQ: 0.1725250315971191
+Current crossover rate: 0.6699322218162378
+Current mutation rate: 0.7499258711017155
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.669932225931462
+3: 0.7499258664951106
+4: 6.142746923998299E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 80
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 6.141463218678479E-7
+newQ: 0.17248278194219072
+Current crossover rate: 0.669932225931462
+Current mutation rate: 0.7499258664951106
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6699322218170978
+3: 0.7499258711007527
+4: 6.141463218678479E-7
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 81
+Parent Fitness:17573.487261146496
+Current Fitness:3208.487261146497
+Difference Fitness:14365.0
+Reward: 1.0
+newQ: 0.1928745309651767
+Current crossover rate: 0.6699322218170978
+Current mutation rate: 0.7499258711007527
+State: 2
+Action: 0
+0: 2.0
+1: 3208.487261146497
+2: 0.6766315440352687
+3: 0.7424266123897452
+4: 1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 82
+Parent Fitness:3208.487261146497
+Current Fitness:3208.487261146497
+Difference Fitness:0.0
+Reward: 5.689700460282499E-5
+newQ: 0.19268279437430358
+Current crossover rate: 0.6766315440352687
+Current mutation rate: 0.7424266123897452
+State: 1
+Action: 0
+0: 1.0
+1: 3208.487261146497
+2: 0.6766319290183495
+3: 0.7424261899712413
+4: 5.689700460282499E-5
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 83
+Parent Fitness:3169.487261146497
+Current Fitness:3169.487261146497
+Difference Fitness:0.0
+Reward: 5.690048007940151E-5
+newQ: 0.19249124958953087
+Current crossover rate: 0.6766319290183495
+Current mutation rate: 0.7424261899712413
+State: 1
+Action: 0
+0: 1.0
+1: 3169.487261146497
+2: 0.6766323140251654
+3: 0.7424257675271749
+4: 5.690048007940151E-5
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 84
+Parent Fitness:17573.487261146496
+Current Fitness:3169.487261146497
+Difference Fitness:14404.0
+Reward: 1.0
+newQ: 0.21244142459774024
+Current crossover rate: 0.6766323140251654
+Current mutation rate: 0.7424257675271749
+State: 2
+Action: 0
+0: 2.0
+1: 3169.487261146497
+2: 0.683398637165417
+3: 0.7350015098519032
+4: 1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 85
+Parent Fitness:3169.487261146497
+Current Fitness:3169.487261146497
+Difference Fitness:0.0
+Reward: 1.1798784182737168E-4
+newQ: 0.21223134292997903
+Current crossover rate: 0.683398637165417
+Current mutation rate: 0.7350015098519032
+State: 1
+Action: 0
+0: 1.0
+1: 3169.487261146497
+2: 0.6833994434927201
+3: 0.7350006426394843
+4: 1.1798784182737168E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 86
+Parent Fitness:3169.487261146497
+Current Fitness:3169.487261146497
+Difference Fitness:0.0
+Reward: 1.1799529624924364E-4
+newQ: 0.21202147149297404
+Current crossover rate: 0.6833994434927201
+Current mutation rate: 0.7350006426394843
+State: 1
+Action: 0
+0: 1.0
+1: 3169.487261146497
+2: 0.6834002498719179
+3: 0.7349997753732986
+4: 1.1799529624924364E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 87
+Parent Fitness:3169.487261146497
+Current Fitness:3169.487261146497
+Difference Fitness:0.0
+Reward: 1.1800275117134442E-4
+newQ: 0.21181181007650451
+Current crossover rate: 0.6834002498719179
+Current mutation rate: 0.7349997753732986
+State: 1
+Action: 0
+0: 1.0
+1: 3169.487261146497
+2: 0.6834010563030143
+3: 0.7349989080533426
+4: 1.1800275117134442E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 88
+Parent Fitness:3169.487261146497
+Current Fitness:3169.487261146497
+Difference Fitness:0.0
+Reward: 1.1801020659371053E-4
+newQ: 0.21160235847055986
+Current crossover rate: 0.6834010563030143
+Current mutation rate: 0.7349989080533426
+State: 1
+Action: 0
+0: 1.0
+1: 3169.487261146497
+2: 0.6834018627860127
+3: 0.7349980406796127
+4: 1.1801020659371053E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 89
+Parent Fitness:3169.487261146497
+Current Fitness:3169.487261146497
+Difference Fitness:0.0
+Reward: 1.1801766251637983E-4
+newQ: 0.21139311646533962
+Current crossover rate: 0.6834018627860127
+Current mutation rate: 0.7349980406796127
+State: 1
+Action: 0
+0: 1.0
+1: 3169.487261146497
+2: 0.6834026693209166
+3: 0.7349971732521056
+4: 1.1801766251637983E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 90
+Parent Fitness:3169.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:39.0
+Reward: 1.0
+newQ: 0.2309652541360328
+Current crossover rate: 0.6834026693209166
+Current mutation rate: 0.7349971732521056
+State: 2
+Action: 0
+0: 2.0
+1: 3130.487261146497
+2: 0.6902366960141259
+3: 0.7276472015195845
+4: 1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 91
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.812059354783613E-4
+newQ: 0.23073791300060634
+Current crossover rate: 0.6902366960141259
+Current mutation rate: 0.7276472015195845
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902379467639879
+3: 0.727645882979666
+4: 1.812059354783613E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 92
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8121776507641686E-4
+newQ: 0.23051079944290725
+Current crossover rate: 0.6902379467639879
+Current mutation rate: 0.727645882979666
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902391975977687
+3: 0.7276445643560593
+4: 1.8121776507641686E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 93
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8122959551596706E-4
+newQ: 0.23028391323537464
+Current crossover rate: 0.6902391975977687
+Current mutation rate: 0.7276445643560593
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902404485154746
+3: 0.7276432456487585
+4: 1.8122959551596706E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 94
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8124142679707634E-4
+newQ: 0.23005725415067518
+Current crossover rate: 0.6902404485154746
+Current mutation rate: 0.7276432456487585
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902416995171119
+3: 0.7276419268577581
+4: 1.8124142679707634E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 95
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.812532589198179E-4
+newQ: 0.2298308219617029
+Current crossover rate: 0.6902416995171119
+Current mutation rate: 0.7276419268577581
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902429506026867
+3: 0.7276406079830523
+4: 1.812532589198179E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 96
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.812650918842562E-4
+newQ: 0.22960461644157887
+Current crossover rate: 0.6902429506026867
+Current mutation rate: 0.7276406079830523
+State: 1
+Action: 1
+0: 1.0
+1: 3130.487261146497
+2: 0.6902442017722054
+3: 0.7276392890246357
+4: 1.812650918842562E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 97
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.812769256904634E-4
+newQ: 0.22937863736365108
+Current crossover rate: 0.6902442017722054
+Current mutation rate: 0.7276392890246357
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902454530256741
+3: 0.7276379699825024
+4: 1.812769256904634E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 98
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8128876033850493E-4
+newQ: 0.22915288450149418
+Current crossover rate: 0.6902454530256741
+Current mutation rate: 0.7276379699825024
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902467043630992
+3: 0.7276366508566469
+4: 1.8128876033850493E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 99
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8130059582845191E-4
+newQ: 0.22892735762890926
+Current crossover rate: 0.6902467043630992
+Current mutation rate: 0.7276366508566469
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902479557844868
+3: 0.7276353316470634
+4: 1.8130059582845191E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 100
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8131243216036987E-4
+newQ: 0.22870205651992356
+Current crossover rate: 0.6902479557844868
+Current mutation rate: 0.7276353316470634
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902492072898434
+3: 0.7276340123537464
+4: 1.8131243216036987E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 101
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8132426933433087E-4
+newQ: 0.22847698094879032
+Current crossover rate: 0.6902492072898434
+Current mutation rate: 0.7276340123537464
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902504588791751
+3: 0.7276326929766901
+4: 1.8132426933433087E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 102
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8133610735040272E-4
+newQ: 0.22825213068998854
+Current crossover rate: 0.6902504588791751
+Current mutation rate: 0.7276326929766901
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902517105524882
+3: 0.7276313735158888
+4: 1.8133610735040272E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 103
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.81347946208652E-4
+newQ: 0.2280275055182227
+Current crossover rate: 0.6902517105524882
+Current mutation rate: 0.7276313735158888
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.690252962309789
+3: 0.727630053971337
+4: 1.81347946208652E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 104
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8135978590914982E-4
+newQ: 0.22780310520842265
+Current crossover rate: 0.690252962309789
+Current mutation rate: 0.727630053971337
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902542141510837
+3: 0.7276287343430289
+4: 1.8135978590914982E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 105
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.813716264519616E-4
+newQ: 0.22757892953574327
+Current crossover rate: 0.6902542141510837
+Current mutation rate: 0.7276287343430289
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902554660763786
+3: 0.7276274146309589
+4: 1.813716264519616E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 106
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8138346783715955E-4
+newQ: 0.22735497827556428
+Current crossover rate: 0.6902554660763786
+Current mutation rate: 0.7276274146309589
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902567180856799
+3: 0.7276260948351213
+4: 1.8138346783715955E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 107
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8139531006481025E-4
+newQ: 0.22713125120348998
+Current crossover rate: 0.6902567180856799
+Current mutation rate: 0.7276260948351213
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902579701789939
+3: 0.7276247749555105
+4: 1.8139531006481025E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 108
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8140715313498255E-4
+newQ: 0.2269077480953492
+Current crossover rate: 0.6902579701789939
+Current mutation rate: 0.7276247749555105
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.690259222356327
+3: 0.7276234549921208
+4: 1.8140715313498255E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 109
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8141899704774648E-4
+newQ: 0.2266844687271948
+Current crossover rate: 0.690259222356327
+Current mutation rate: 0.7276234549921208
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902604746176852
+3: 0.7276221349449464
+4: 1.8141899704774648E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 110
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8143084180316852E-4
+newQ: 0.22646141287530366
+Current crossover rate: 0.6902604746176852
+Current mutation rate: 0.7276221349449464
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.690261726963075
+3: 0.7276208148139819
+4: 1.8143084180316852E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 111
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.814426874013175E-4
+newQ: 0.22623858031617639
+Current crossover rate: 0.690261726963075
+Current mutation rate: 0.7276208148139819
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902629793925025
+3: 0.7276194945992215
+4: 1.814426874013175E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 112
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8145453384226353E-4
+newQ: 0.22601597082653704
+Current crossover rate: 0.6902629793925025
+Current mutation rate: 0.7276194945992215
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.690264231905974
+3: 0.7276181743006594
+4: 1.8145453384226353E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 113
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8146638112607308E-4
+newQ: 0.225793584183333
+Current crossover rate: 0.690264231905974
+Current mutation rate: 0.7276181743006594
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902654845034958
+3: 0.7276168539182901
+4: 1.8146638112607308E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 114
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8147822925281608E-4
+newQ: 0.22557142016373474
+Current crossover rate: 0.6902654845034958
+Current mutation rate: 0.7276168539182901
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902667371850741
+3: 0.7276155334521078
+4: 1.8147822925281608E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 115
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8149007822256037E-4
+newQ: 0.22534947854513546
+Current crossover rate: 0.6902667371850741
+Current mutation rate: 0.7276155334521078
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902679899507155
+3: 0.727614212902107
+4: 1.8149007822256037E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 116
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8150192803537913E-4
+newQ: 0.22512775910515104
+Current crossover rate: 0.6902679899507155
+Current mutation rate: 0.727614212902107
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902692428004259
+3: 0.727612892268282
+4: 1.8150192803537913E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 117
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.815137786913368E-4
+newQ: 0.22490626162161972
+Current crossover rate: 0.6902692428004259
+Current mutation rate: 0.727612892268282
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902704957342117
+3: 0.727611571550627
+4: 1.815137786913368E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 118
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8152563019050325E-4
+newQ: 0.2246849858726019
+Current crossover rate: 0.6902704957342117
+Current mutation rate: 0.727611571550627
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902717487520792
+3: 0.7276102507491363
+4: 1.8152563019050325E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 119
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8153748253294633E-4
+newQ: 0.22446393163637998
+Current crossover rate: 0.6902717487520792
+Current mutation rate: 0.7276102507491363
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902730018540345
+3: 0.7276089298638044
+4: 1.8153748253294633E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 120
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8154933571873366E-4
+newQ: 0.22424309869145798
+Current crossover rate: 0.6902730018540345
+Current mutation rate: 0.7276089298638044
+State: 1
+Action: 1
+0: 1.0
+1: 3130.487261146497
+2: 0.690274255040084
+3: 0.7276076088946256
+4: 1.8154933571873366E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 121
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8156118974793522E-4
+newQ: 0.22402248681656148
+Current crossover rate: 0.690274255040084
+Current mutation rate: 0.7276076088946256
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.690275508310234
+3: 0.7276062878415942
+4: 1.8156118974793522E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 122
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8157304462062098E-4
+newQ: 0.2238020957906373
+Current crossover rate: 0.690275508310234
+Current mutation rate: 0.7276062878415942
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902767616644907
+3: 0.7276049667047045
+4: 1.8157304462062098E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 123
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.815849003368586E-4
+newQ: 0.2235819253928534
+Current crossover rate: 0.6902767616644907
+Current mutation rate: 0.7276049667047045
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902780151028605
+3: 0.7276036454839508
+4: 1.815849003368586E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 124
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8159675689671697E-4
+newQ: 0.2233619754025985
+Current crossover rate: 0.6902780151028605
+Current mutation rate: 0.7276036454839508
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902792686253495
+3: 0.7276023241793276
+4: 1.8159675689671697E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 125
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8160861430026489E-4
+newQ: 0.2231422455994819
+Current crossover rate: 0.6902792686253495
+Current mutation rate: 0.7276023241793276
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.690280522231964
+3: 0.727601002790829
+4: 1.8160861430026489E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 126
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8162047254756896E-4
+newQ: 0.22292273576333335
+Current crossover rate: 0.690280522231964
+Current mutation rate: 0.727601002790829
+State: 1
+Action: 1
+0: 1.0
+1: 3130.487261146497
+2: 0.6902817759227104
+3: 0.7275996813184494
+4: 1.8162047254756896E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 127
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8163233163870254E-4
+newQ: 0.22270344567420278
+Current crossover rate: 0.6902817759227104
+Current mutation rate: 0.7275996813184494
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902830296975949
+3: 0.7275983597621832
+4: 1.8163233163870254E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 128
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8164419157372993E-4
+newQ: 0.22248437511236002
+Current crossover rate: 0.6902830296975949
+Current mutation rate: 0.7275983597621832
+State: 1
+Action: 1
+0: 1.0
+1: 3130.487261146497
+2: 0.6902842835566239
+3: 0.7275970381220247
+4: 1.8164419157372993E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 129
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.816560523527233E-4
+newQ: 0.22226552385829473
+Current crossover rate: 0.6902842835566239
+Current mutation rate: 0.7275970381220247
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902855374998034
+3: 0.7275957163979682
+4: 1.816560523527233E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 130
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8166791397574821E-4
+newQ: 0.22204689169271596
+Current crossover rate: 0.6902855374998034
+Current mutation rate: 0.7275957163979682
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902867915271399
+3: 0.727594394590008
+4: 1.8166791397574821E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 131
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8167977644287684E-4
+newQ: 0.2218284783965521
+Current crossover rate: 0.6902867915271399
+Current mutation rate: 0.727594394590008
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902880456386395
+3: 0.7275930726981384
+4: 1.8167977644287684E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 132
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8169163975417457E-4
+newQ: 0.22161028375095063
+Current crossover rate: 0.6902880456386395
+Current mutation rate: 0.7275930726981384
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902892998343088
+3: 0.7275917507223539
+4: 1.8169163975417457E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 133
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8170350390971367E-4
+newQ: 0.22139230753727787
+Current crossover rate: 0.6902892998343088
+Current mutation rate: 0.7275917507223539
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902905541141536
+3: 0.7275904286626487
+4: 1.8170350390971367E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 134
+Parent Fitness:3130.487261146497
+Current Fitness:3130.487261146497
+Difference Fitness:0.0
+Reward: 1.8171536890955855E-4
+newQ: 0.22117454953711876
+Current crossover rate: 0.6902905541141536
+Current mutation rate: 0.7275904286626487
+State: 1
+Action: 0
+0: 1.0
+1: 3130.487261146497
+2: 0.6902918084781806
+3: 0.7275891065190171
+4: 1.8171536890955855E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 135
+Parent Fitness:3130.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:39.0
+Reward: 1.0
+newQ: 0.24055105854637637
+Current crossover rate: 0.6902918084781806
+Current mutation rate: 0.7275891065190171
+State: 2
+Action: 0
+0: 2.0
+1: 3091.487261146497
+2: 0.6971947265629624
+3: 0.7203132154538269
+4: 1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 136
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.470266857975167E-4
+newQ: 0.24031544802154595
+Current crossover rate: 0.6971947265629624
+Current mutation rate: 0.7203132154538269
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.697196448819989
+3: 0.7203114360879634
+4: 2.470266857975167E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 137
+Parent Fitness:17573.487261146496
+Current Fitness:3091.487261146497
+Difference Fitness:14482.0
+Reward: 1.0
+newQ: 0.259309139061115
+Current crossover rate: 0.697196448819989
+Current mutation rate: 0.7203114360879634
+State: 2
+Action: 0
+0: 2.0
+1: 3091.487261146497
+2: 0.7041684133081889
+3: 0.7131083217270838
+4: 1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 138
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1445148343461573E-4
+newQ: 0.2590561189517226
+Current crossover rate: 0.7041684133081889
+Current mutation rate: 0.7131083217270838
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041706275762104
+3: 0.7131060793473877
+4: 3.1445148343461573E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 139
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1447334499808415E-4
+newQ: 0.25880335229967083
+Current crossover rate: 0.7041706275762104
+Current mutation rate: 0.7131060793473877
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041728420051375
+3: 0.7131038368188466
+4: 3.1447334499808415E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 140
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.144952082912156E-4
+newQ: 0.25855083885153696
+Current crossover rate: 0.7041728420051375
+Current mutation rate: 0.7131038368188466
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041750565949838
+3: 0.7131015941414497
+4: 3.144952082912156E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 141
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.145170733141722E-4
+newQ: 0.2582985783541517
+Current crossover rate: 0.7041750565949838
+Current mutation rate: 0.7131015941414497
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041772713457628
+3: 0.713099351315186
+4: 3.145170733141722E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 142
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1453894006711503E-4
+newQ: 0.2580465705545989
+Current crossover rate: 0.7041772713457628
+Current mutation rate: 0.713099351315186
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041794862574883
+3: 0.7130971083400447
+4: 3.1453894006711503E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 143
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1456080855021167E-4
+newQ: 0.2577948152002153
+Current crossover rate: 0.7041794862574883
+Current mutation rate: 0.7130971083400447
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041817013301739
+3: 0.713094865216015
+4: 3.1456080855021167E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 144
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.145826787636263E-4
+newQ: 0.2575433120385903
+Current crossover rate: 0.7041817013301739
+Current mutation rate: 0.713094865216015
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041839165638334
+3: 0.7130926219430859
+4: 3.145826787636263E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 145
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1460455070752565E-4
+newQ: 0.25729206081756584
+Current crossover rate: 0.7041839165638334
+Current mutation rate: 0.7130926219430859
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041861319584802
+3: 0.7130903785212465
+4: 3.1460455070752565E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 146
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.146264243820684E-4
+newQ: 0.2570410612852359
+Current crossover rate: 0.7041861319584802
+Current mutation rate: 0.7130903785212465
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041883475141282
+3: 0.713088134950486
+4: 3.146264243820684E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 147
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1464829978742226E-4
+newQ: 0.2567903131899464
+Current crossover rate: 0.7041883475141282
+Current mutation rate: 0.713088134950486
+State: 1
+Action: 1
+0: 1.0
+1: 3091.487261146497
+2: 0.704190563230791
+3: 0.7130858912307934
+4: 3.1464829978742226E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 148
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.146701769237526E-4
+newQ: 0.2565398162802949
+Current crossover rate: 0.704190563230791
+Current mutation rate: 0.7130858912307934
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041927791084821
+3: 0.7130836473621578
+4: 3.146701769237526E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 149
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.146920557912192E-4
+newQ: 0.2562895703051304
+Current crossover rate: 0.7041927791084821
+Current mutation rate: 0.7130836473621578
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041949951472154
+3: 0.7130814033445684
+4: 3.146920557912192E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 150
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1471393638999093E-4
+newQ: 0.25603957501355307
+Current crossover rate: 0.7041949951472154
+Current mutation rate: 0.7130814033445684
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7041972113470045
+3: 0.7130791591780142
+4: 3.1471393638999093E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 151
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.14735818720232E-4
+newQ: 0.2557898301549139
+Current crossover rate: 0.7041972113470045
+Current mutation rate: 0.7130791591780142
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704199427707863
+3: 0.7130769148624845
+4: 3.14735818720232E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 152
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1475770278210463E-4
+newQ: 0.2555403354788146
+Current crossover rate: 0.704199427707863
+Current mutation rate: 0.7130769148624845
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042016442298048
+3: 0.7130746703979682
+4: 3.1475770278210463E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 153
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1477958857577764E-4
+newQ: 0.2552910907351073
+Current crossover rate: 0.7042016442298048
+Current mutation rate: 0.7130746703979682
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042038609128433
+3: 0.7130724257844545
+4: 3.1477958857577764E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 154
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1480147610140957E-4
+newQ: 0.25504209567389424
+Current crossover rate: 0.7042038609128433
+Current mutation rate: 0.7130724257844545
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042060777569922
+3: 0.7130701810219325
+4: 3.1480147610140957E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 155
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.148233653591681E-4
+newQ: 0.2547933500455275
+Current crossover rate: 0.7042060777569922
+Current mutation rate: 0.7130701810219325
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042082947622652
+3: 0.7130679361103913
+4: 3.148233653591681E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 156
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1484525634921655E-4
+newQ: 0.25454485360060897
+Current crossover rate: 0.7042082947622652
+Current mutation rate: 0.7130679361103913
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042105119286761
+3: 0.71306569104982
+4: 3.1484525634921655E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 157
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.148671490717214E-4
+newQ: 0.2542966060899898
+Current crossover rate: 0.7042105119286761
+Current mutation rate: 0.71306569104982
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042127292562385
+3: 0.7130634458402075
+4: 3.148671490717214E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 158
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1488904352684364E-4
+newQ: 0.17387105959992724
+Current crossover rate: 0.7042127292562385
+Current mutation rate: 0.7130634458402075
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042105117675109
+3: 0.7130656911988719
+4: 3.1488904352684364E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 159
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1486714733893633E-4
+newQ: 0.25404860682684655
+Current crossover rate: 0.7042105117675109
+Current mutation rate: 0.7130656911988719
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042127290950605
+3: 0.7130634459892713
+4: 3.1486714733893633E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 160
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1488904179392206E-4
+newQ: 0.25380085600085556
+Current crossover rate: 0.7042127290950605
+Current mutation rate: 0.7130634459892713
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042149465837754
+3: 0.7130612006306188
+4: 3.1488904179392206E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 161
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.14910937981695E-4
+newQ: 0.25355335336361434
+Current crossover rate: 0.7042149465837754
+Current mutation rate: 0.7130612006306188
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704217164233669
+3: 0.7130589551229035
+4: 3.14910937981695E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 162
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.14932835902414E-4
+newQ: 0.2533060986669688
+Current crossover rate: 0.704217164233669
+Current mutation rate: 0.7130589551229035
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042193820447552
+3: 0.7130567094661145
+4: 3.14932835902414E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 163
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1495473555624877E-4
+newQ: 0.25305909166301294
+Current crossover rate: 0.7042193820447552
+Current mutation rate: 0.7130567094661145
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042216000170477
+3: 0.7130544636602408
+4: 3.1495473555624877E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 164
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.149766369433615E-4
+newQ: 0.25281233210408877
+Current crossover rate: 0.7042216000170477
+Current mutation rate: 0.7130544636602408
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042238181505601
+3: 0.7130522177052716
+4: 3.149766369433615E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 165
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.149985400639177E-4
+newQ: 0.2525658197427859
+Current crossover rate: 0.7042238181505601
+Current mutation rate: 0.7130522177052716
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042260364453061
+3: 0.713049971601196
+4: 3.149985400639177E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 166
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.150204449180816E-4
+newQ: 0.2523195543319415
+Current crossover rate: 0.7042260364453061
+Current mutation rate: 0.713049971601196
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042282549012993
+3: 0.713047725348003
+4: 3.150204449180816E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 167
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.150423515060141E-4
+newQ: 0.25207353562463963
+Current crossover rate: 0.7042282549012993
+Current mutation rate: 0.713047725348003
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042304735185534
+3: 0.7130454789456817
+4: 3.150423515060141E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 168
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1506425982788413E-4
+newQ: 0.1751893368699934
+Current crossover rate: 0.7042304735185534
+Current mutation rate: 0.7130454789456817
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042282547400245
+3: 0.7130477254971422
+4: 3.1506425982788413E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 169
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.150423497719113E-4
+newQ: 0.2518277629360104
+Current crossover rate: 0.7042282547400245
+Current mutation rate: 0.7130477254971422
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704230473357266
+3: 0.7130454790948328
+4: 3.150423497719113E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 170
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.150642580936469E-4
+newQ: 0.25158223645823624
+Current crossover rate: 0.704230473357266
+Current mutation rate: 0.7130454790948328
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704232692135782
+3: 0.7130432325433843
+4: 3.150642580936469E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 171
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1508616814948214E-4
+newQ: 0.251336955945141
+Current crossover rate: 0.704232692135782
+Current mutation rate: 0.7130432325433843
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042349110755866
+3: 0.7130409858427856
+4: 3.1508616814948214E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 172
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.151080799395867E-4
+newQ: 0.17646725445715
+Current crossover rate: 0.7042349110755866
+Current mutation rate: 0.7130409858427856
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.70423269197448
+3: 0.7130432326925453
+4: 3.151080799395867E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 173
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1508616641505287E-4
+newQ: 0.2510919207125241
+Current crossover rate: 0.70423269197448
+Current mutation rate: 0.7130432326925453
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042349109142718
+3: 0.7130409859919585
+4: 3.1508616641505287E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 174
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.151080782050209E-4
+newQ: 0.2508471309533757
+Current crossover rate: 0.7042349109142718
+Current mutation rate: 0.7130409859919585
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042371300153657
+3: 0.7130387391422107
+4: 3.151080782050209E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 175
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.151299917294204E-4
+newQ: 0.2506025864222569
+Current crossover rate: 0.7042371300153657
+Current mutation rate: 0.7130387391422107
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042393492777752
+3: 0.713036492143291
+4: 3.151299917294204E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 176
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1515190698841347E-4
+newQ: 0.25035828687397443
+Current crossover rate: 0.7042393492777752
+Current mutation rate: 0.713036492143291
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042415687015142
+3: 0.7130342449951884
+4: 3.1515190698841347E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 177
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.151738239821678E-4
+newQ: 0.2501142320635801
+Current crossover rate: 0.7042415687015142
+Current mutation rate: 0.7130342449951884
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042437882865963
+3: 0.7130319976978922
+4: 3.151738239821678E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 178
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.151957427108465E-4
+newQ: 0.2498704217463707
+Current crossover rate: 0.7042437882865963
+Current mutation rate: 0.7130319976978922
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042460080330353
+3: 0.7130297502513913
+4: 3.151957427108465E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 179
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1521766317461723E-4
+newQ: 0.2496268556778878
+Current crossover rate: 0.7042460080330353
+Current mutation rate: 0.7130297502513913
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042482279408447
+3: 0.7130275026556748
+4: 3.1521766317461723E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 180
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1523958537364234E-4
+newQ: 0.24938353361391738
+Current crossover rate: 0.7042482279408447
+Current mutation rate: 0.7130275026556748
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042504480100384
+3: 0.7130252549107319
+4: 3.1523958537364234E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 181
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.152615093080868E-4
+newQ: 0.24914045531048962
+Current crossover rate: 0.7042504480100384
+Current mutation rate: 0.7130252549107319
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.70425266824063
+3: 0.7130230070165515
+4: 3.152615093080868E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 182
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.152834349781153E-4
+newQ: 0.24889762052387868
+Current crossover rate: 0.70425266824063
+Current mutation rate: 0.7130230070165515
+State: 1
+Action: 1
+0: 1.0
+1: 3091.487261146497
+2: 0.7042548886326334
+3: 0.7130207589731228
+4: 3.152834349781153E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 183
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.153053623838953E-4
+newQ: 0.24865502901060246
+Current crossover rate: 0.7042548886326334
+Current mutation rate: 0.7130207589731228
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042571091860621
+3: 0.7130185107804348
+4: 3.153053623838953E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 184
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.153272915255889E-4
+newQ: 0.24841268052742238
+Current crossover rate: 0.7042571091860621
+Current mutation rate: 0.7130185107804348
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042593299009299
+3: 0.7130162624384767
+4: 3.153272915255889E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 185
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.153492224033638E-4
+newQ: 0.24817057483134303
+Current crossover rate: 0.7042593299009299
+Current mutation rate: 0.7130162624384767
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042615507772504
+3: 0.7130140139472375
+4: 3.153492224033638E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 186
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.153711550173821E-4
+newQ: 0.24792871167961203
+Current crossover rate: 0.7042615507772504
+Current mutation rate: 0.7130140139472375
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042637718150374
+3: 0.7130117653067063
+4: 3.153711550173821E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 187
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.153930893678103E-4
+newQ: 0.24768709082971976
+Current crossover rate: 0.7042637718150374
+Current mutation rate: 0.7130117653067063
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042659930143047
+3: 0.7130095165168722
+4: 3.153930893678103E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 188
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.15415025454815E-4
+newQ: 0.24744571203939913
+Current crossover rate: 0.7042659930143047
+Current mutation rate: 0.7130095165168722
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042682143750658
+3: 0.7130072675777241
+4: 3.15415025454815E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 189
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.15436963278557E-4
+newQ: 0.2472045750666253
+Current crossover rate: 0.7042682143750658
+Current mutation rate: 0.7130072675777241
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042704358973346
+3: 0.7130050184892514
+4: 3.15436963278557E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 190
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1545890283920516E-4
+newQ: 0.24696367966961544
+Current crossover rate: 0.7042704358973346
+Current mutation rate: 0.7130050184892514
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042726575811248
+3: 0.7130027692514428
+4: 3.1545890283920516E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 191
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.154808441369228E-4
+newQ: 0.24672302560682857
+Current crossover rate: 0.7042726575811248
+Current mutation rate: 0.7130027692514428
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.70427487942645
+3: 0.7130005198642876
+4: 3.154808441369228E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 192
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.15502787171874E-4
+newQ: 0.17763195691028016
+Current crossover rate: 0.70427487942645
+Current mutation rate: 0.7130005198642876
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704272657419576
+3: 0.7130027694008002
+4: 3.15502787171874E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 193
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1548084239952143E-4
+newQ: 0.24648261219806972
+Current crossover rate: 0.704272657419576
+Current mutation rate: 0.7130027694008002
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042748792648885
+3: 0.713000520013657
+4: 3.1548084239952143E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 194
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1550278543433953E-4
+newQ: 0.24624243964158035
+Current crossover rate: 0.7042748792648885
+Current mutation rate: 0.713000520013657
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042771012717497
+3: 0.7129982704771562
+4: 3.1550278543433953E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 195
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.155247302065556E-4
+newQ: 0.2460025076965429
+Current crossover rate: 0.7042771012717497
+Current mutation rate: 0.7129982704771562
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042793234401734
+3: 0.7129960207912869
+4: 3.155247302065556E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 196
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.155466767163362E-4
+newQ: 0.24576281612238068
+Current crossover rate: 0.7042793234401734
+Current mutation rate: 0.7129960207912869
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042815457701733
+3: 0.7129937709560381
+4: 3.155466767163362E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 197
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.155686249638468E-4
+newQ: 0.24552336467875757
+Current crossover rate: 0.7042815457701733
+Current mutation rate: 0.7129937709560381
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042837682617632
+3: 0.7129915209713991
+4: 3.155686249638468E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 198
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.155905749492538E-4
+newQ: 0.24528415312557778
+Current crossover rate: 0.7042837682617632
+Current mutation rate: 0.7129915209713991
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042859909149567
+3: 0.7129892708373586
+4: 3.155905749492538E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 199
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1561252667271943E-4
+newQ: 0.24504518122298563
+Current crossover rate: 0.7042859909149567
+Current mutation rate: 0.7129892708373586
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042882137297676
+3: 0.7129870205539061
+4: 3.1561252667271943E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 200
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.156344801344113E-4
+newQ: 0.24480644873136534
+Current crossover rate: 0.7042882137297676
+Current mutation rate: 0.7129870205539061
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042904367062096
+3: 0.7129847701210303
+4: 3.156344801344113E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 201
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1565643533449484E-4
+newQ: 0.24456795541134066
+Current crossover rate: 0.7042904367062096
+Current mutation rate: 0.7129847701210303
+State: 1
+Action: 1
+0: 1.0
+1: 3091.487261146497
+2: 0.7042926598442965
+3: 0.7129825195387205
+4: 3.1565643533449484E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 202
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.156783922731332E-4
+newQ: 0.1787324224927355
+Current crossover rate: 0.7042926598442965
+Current mutation rate: 0.7129825195387205
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042904365445509
+3: 0.7129847702704754
+4: 3.156783922731332E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 203
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1565643359577125E-4
+newQ: 0.2443297005846012
+Current crossover rate: 0.7042904365445509
+Current mutation rate: 0.7129847702704754
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704292659682625
+3: 0.7129825196881775
+4: 3.1565643359577125E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 204
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.156783905342742E-4
+newQ: 0.2440916844518273
+Current crossover rate: 0.704292659682625
+Current mutation rate: 0.7129825196881775
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042948829823578
+3: 0.7129802689564345
+4: 3.156783905342742E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 205
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1570034921149965E-4
+newQ: 0.2438539067743597
+Current crossover rate: 0.7042948829823578
+Current mutation rate: 0.7129802689564345
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7042971064437629
+3: 0.7129780180752356
+4: 3.1570034921149965E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 206
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1572230962761293E-4
+newQ: 0.24361636731377787
+Current crossover rate: 0.7042971064437629
+Current mutation rate: 0.7129780180752356
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704299330066854
+3: 0.7129757670445698
+4: 3.1572230962761293E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 207
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1574427178277626E-4
+newQ: 0.24337906583189972
+Current crossover rate: 0.704299330066854
+Current mutation rate: 0.7129757670445698
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043015538516448
+3: 0.7129735158644261
+4: 3.1574427178277626E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 208
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1576623567715735E-4
+newQ: 0.24314200209078135
+Current crossover rate: 0.7043015538516448
+Current mutation rate: 0.7129735158644261
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043037777981492
+3: 0.7129712645347936
+4: 3.1576623567715735E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 209
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.157882013109203E-4
+newQ: 0.24290517585271676
+Current crossover rate: 0.7043037777981492
+Current mutation rate: 0.7129712645347936
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043060019063809
+3: 0.7129690130556615
+4: 3.157882013109203E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 210
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.15810168684233E-4
+newQ: 0.2426685868802377
+Current crossover rate: 0.7043060019063809
+Current mutation rate: 0.7129690130556615
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043082261763536
+3: 0.7129667614270188
+4: 3.15810168684233E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 211
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.158321377972584E-4
+newQ: 0.2424322349361134
+Current crossover rate: 0.7043082261763536
+Current mutation rate: 0.7129667614270188
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704310450608081
+3: 0.7129645096488544
+4: 3.158321377972584E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 212
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.15854108650162E-4
+newQ: 0.24219611978335032
+Current crossover rate: 0.704310450608081
+Current mutation rate: 0.7129645096488544
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043126752015768
+3: 0.7129622577211575
+4: 3.15854108650162E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 213
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1587608124311053E-4
+newQ: 0.24196024118519183
+Current crossover rate: 0.7043126752015768
+Current mutation rate: 0.7129622577211575
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043148999568549
+3: 0.712960005643917
+4: 3.1587608124311053E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 214
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.158980555762681E-4
+newQ: 0.24172459890511816
+Current crossover rate: 0.7043148999568549
+Current mutation rate: 0.712960005643917
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043171248739291
+3: 0.7129577534171221
+4: 3.158980555762681E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 215
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1592003164980113E-4
+newQ: 0.24148919270684602
+Current crossover rate: 0.7043171248739291
+Current mutation rate: 0.7129577534171221
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043193499528129
+3: 0.7129555010407619
+4: 3.1592003164980113E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 216
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1594200946387537E-4
+newQ: 0.24125402235432844
+Current crossover rate: 0.7043193499528129
+Current mutation rate: 0.7129555010407619
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043215751935201
+3: 0.7129532485148253
+4: 3.1594200946387537E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 217
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1596398901865495E-4
+newQ: 0.24101908761175447
+Current crossover rate: 0.7043215751935201
+Current mutation rate: 0.7129532485148253
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043238005960646
+3: 0.7129509958393015
+4: 3.1596398901865495E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 218
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1598597031430646E-4
+newQ: 0.240784388243549
+Current crossover rate: 0.7043238005960646
+Current mutation rate: 0.7129509958393015
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043260261604601
+3: 0.7129487430141795
+4: 3.1598597031430646E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 219
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.160079533509974E-4
+newQ: 0.24054992401437247
+Current crossover rate: 0.7043260261604601
+Current mutation rate: 0.7129487430141795
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043282518867204
+3: 0.7129464900394483
+4: 3.160079533509974E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 220
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1602993812889115E-4
+newQ: 0.24031569468912067
+Current crossover rate: 0.7043282518867204
+Current mutation rate: 0.7129464900394483
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043304777748591
+3: 0.7129442369150969
+4: 3.1602993812889115E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 221
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1605192464815077E-4
+newQ: 0.2400817000329245
+Current crossover rate: 0.7043304777748591
+Current mutation rate: 0.7129442369150969
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043327038248901
+3: 0.7129419836411144
+4: 3.1605192464815077E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 222
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.160739129089452E-4
+newQ: 0.23984793981114974
+Current crossover rate: 0.7043327038248901
+Current mutation rate: 0.7129419836411144
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.704334930036827
+3: 0.7129397302174899
+4: 3.160739129089452E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 223
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.160959029114385E-4
+newQ: 0.23961441378939682
+Current crossover rate: 0.704334930036827
+Current mutation rate: 0.7129397302174899
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043371564106837
+3: 0.7129374766442125
+4: 3.160959029114385E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 224
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1611789465579854E-4
+newQ: 0.2393811217335005
+Current crossover rate: 0.7043371564106837
+Current mutation rate: 0.7129374766442125
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043393829464739
+3: 0.7129352229212711
+4: 3.1611789465579854E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 225
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1613988814218843E-4
+newQ: 0.23914806340952985
+Current crossover rate: 0.7043393829464739
+Current mutation rate: 0.7129352229212711
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043416096442112
+3: 0.7129329690486548
+4: 3.1613988814218843E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 226
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1616188337077136E-4
+newQ: 0.23891523858378771
+Current crossover rate: 0.7043416096442112
+Current mutation rate: 0.7129329690486548
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043438365039095
+3: 0.7129307150263526
+4: 3.1616188337077136E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 227
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.161838803417161E-4
+newQ: 0.23868264702281075
+Current crossover rate: 0.7043438365039095
+Current mutation rate: 0.7129307150263526
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043460635255827
+3: 0.7129284608543537
+4: 3.161838803417161E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 228
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1620587905519025E-4
+newQ: 0.23845028849336902
+Current crossover rate: 0.7043460635255827
+Current mutation rate: 0.7129284608543537
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043482907092445
+3: 0.7129262065326469
+4: 3.1620587905519025E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 229
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.162278795113593E-4
+newQ: 0.179694654081845
+Current crossover rate: 0.7043482907092445
+Current mutation rate: 0.7129262065326469
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043460633635804
+3: 0.7129284610040723
+4: 3.162278795113593E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 230
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1620587731233E-4
+newQ: 0.2382181623224219
+Current crossover rate: 0.7043460633635804
+Current mutation rate: 0.7129284610040723
+State: 1
+Action: 1
+0: 1.0
+1: 3091.487261146497
+2: 0.7043482905472294
+3: 0.7129262066823775
+4: 3.1620587731233E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 231
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.162278777683614E-4
+newQ: 0.23798626871765485
+Current crossover rate: 0.7043482905472294
+Current mutation rate: 0.7129262066823775
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043505178928807
+3: 0.712923952210964
+4: 3.162278777683614E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 232
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1624987996725423E-4
+newQ: 0.23775460744653654
+Current crossover rate: 0.7043505178928807
+Current mutation rate: 0.712923952210964
+State: 1
+Action: 1
+0: 1.0
+1: 3091.487261146497
+2: 0.7043527454005482
+3: 0.7129216975898209
+4: 3.1624987996725423E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 233
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.162718839091716E-4
+newQ: 0.23752317827676817
+Current crossover rate: 0.7043527454005482
+Current mutation rate: 0.7129216975898209
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043549730702454
+3: 0.7129194428189372
+4: 3.162718839091716E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 234
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1629388959427903E-4
+newQ: 0.23729198097628326
+Current crossover rate: 0.7043549730702454
+Current mutation rate: 0.7129194428189372
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043572009019863
+3: 0.7129171878983018
+4: 3.1629388959427903E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 235
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1631589702274304E-4
+newQ: 0.23706101531324741
+Current crossover rate: 0.7043572009019863
+Current mutation rate: 0.7129171878983018
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043594288957846
+3: 0.712914932827904
+4: 3.1631589702274304E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 236
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1633790619473137E-4
+newQ: 0.23683028105605805
+Current crossover rate: 0.7043594288957846
+Current mutation rate: 0.712914932827904
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043616570516541
+3: 0.7129126776077326
+4: 3.1633790619473137E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 237
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1635991711040704E-4
+newQ: 0.2365997779733442
+Current crossover rate: 0.7043616570516541
+Current mutation rate: 0.7129126776077326
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043638853696085
+3: 0.7129104222377767
+4: 3.1635991711040704E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 238
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.163819297699355E-4
+newQ: 0.23636950583396626
+Current crossover rate: 0.7043638853696085
+Current mutation rate: 0.7129104222377767
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043661138496616
+3: 0.7129081667180253
+4: 3.163819297699355E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 239
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.164039441734845E-4
+newQ: 0.23613946440701578
+Current crossover rate: 0.7043661138496616
+Current mutation rate: 0.7129081667180253
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043683424918273
+3: 0.7129059110484673
+4: 3.164039441734845E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 240
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.164259603212194E-4
+newQ: 0.23590965346181517
+Current crossover rate: 0.7043683424918273
+Current mutation rate: 0.7129059110484673
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043705712961192
+3: 0.7129036552290922
+4: 3.164259603212194E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 241
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1644797821330563E-4
+newQ: 0.2356800727679176
+Current crossover rate: 0.7043705712961192
+Current mutation rate: 0.7129036552290922
+State: 1
+Action: 1
+0: 1.0
+1: 3091.487261146497
+2: 0.7043728002625513
+3: 0.7129013992598886
+4: 3.1644797821330563E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 242
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.164699978499119E-4
+newQ: 0.2354507220951067
+Current crossover rate: 0.7043728002625513
+Current mutation rate: 0.7129013992598886
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043750293911372
+3: 0.7128991431408457
+4: 3.164699978499119E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 243
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.164920192311993E-4
+newQ: 0.23522160121339622
+Current crossover rate: 0.7043750293911372
+Current mutation rate: 0.7128991431408457
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043772586818907
+3: 0.7128968868719524
+4: 3.164920192311993E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 244
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1651404235733763E-4
+newQ: 0.23499270989302998
+Current crossover rate: 0.7043772586818907
+Current mutation rate: 0.7128968868719524
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043794881348255
+3: 0.712894630453198
+4: 3.1651404235733763E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 245
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1653606722849005E-4
+newQ: 0.23476404790448152
+Current crossover rate: 0.7043794881348255
+Current mutation rate: 0.712894630453198
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043817177499556
+3: 0.7128923738845713
+4: 3.1653606722849005E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 246
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.165580938448242E-4
+newQ: 0.23453561501845394
+Current crossover rate: 0.7043817177499556
+Current mutation rate: 0.7128923738845713
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043839475272947
+3: 0.7128901171660613
+4: 3.165580938448242E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 247
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1658012220650675E-4
+newQ: 0.23430741100587962
+Current crossover rate: 0.7043839475272947
+Current mutation rate: 0.7128901171660613
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043861774668566
+3: 0.7128878602976572
+4: 3.1658012220650675E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 248
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.166021523137031E-4
+newQ: 0.1805589338523661
+Current crossover rate: 0.7043861774668566
+Current mutation rate: 0.7128878602976572
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043839473650582
+3: 0.7128901173159665
+4: 3.166021523137031E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 249
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.165801204608277E-4
+newQ: 0.23407943519728297
+Current crossover rate: 0.7043839473650582
+Current mutation rate: 0.7128901173159665
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043861773046072
+3: 0.7128878604475744
+4: 3.165801204608277E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 250
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1660215056788626E-4
+newQ: 0.23385168780509705
+Current crossover rate: 0.7043861773046072
+Current mutation rate: 0.7128878604475744
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043884074063927
+3: 0.7128856034292771
+4: 3.1660215056788626E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 251
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1662418242062504E-4
+newQ: 0.18139726972726403
+Current crossover rate: 0.7043884074063927
+Current mutation rate: 0.7128856034292771
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043861771423567
+3: 0.7128878605974907
+4: 3.1662418242062504E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 252
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.166021488220405E-4
+newQ: 0.23362416816026838
+Current crossover rate: 0.7043861771423567
+Current mutation rate: 0.7128878605974907
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043884072441297
+3: 0.7128856035792053
+4: 3.166021488220405E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 253
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1662418067464505E-4
+newQ: 0.2333968764757216
+Current crossover rate: 0.7043884072441297
+Current mutation rate: 0.7128856035792053
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043906375081529
+3: 0.7128833464110038
+4: 3.1662418067464505E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 254
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1664621427309527E-4
+newQ: 0.23316981252353133
+Current crossover rate: 0.7043906375081529
+Current mutation rate: 0.7128833464110038
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043928679344402
+3: 0.7128810890928753
+4: 3.1664621427309527E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 255
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.166682496175566E-4
+newQ: 0.23294297607600015
+Current crossover rate: 0.7043928679344402
+Current mutation rate: 0.7128810890928753
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043950985230055
+3: 0.7128788316248086
+4: 3.166682496175566E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 256
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1669028670819555E-4
+newQ: 0.2327163669056583
+Current crossover rate: 0.7043950985230055
+Current mutation rate: 0.7128788316248086
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043973292738626
+3: 0.7128765740067928
+4: 3.1669028670819555E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 257
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.167123255451787E-4
+newQ: 0.23248998478526356
+Current crossover rate: 0.7043973292738626
+Current mutation rate: 0.7128765740067928
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043995601870252
+3: 0.712874316238817
+4: 3.167123255451787E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 258
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.167343661286737E-4
+newQ: 0.18219296873096133
+Current crossover rate: 0.7043995601870252
+Current mutation rate: 0.712874316238817
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043973291115433
+3: 0.7128765741567639
+4: 3.167343661286737E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 259
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 3.1671232379850366E-4
+newQ: 0.23226382904695425
+Current crossover rate: 0.7043973291115433
+Current mutation rate: 0.7128765741567639
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.7043995600246931
+3: 0.7128743163888001
+4: 3.1671232379850366E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 260
+Parent Fitness:1168.4687499990282
+Current Fitness:3091.487261146497
+Difference Fitness:-1923.0185111474689
+Reward: -1.0
+newQ: 0.21141855246601518
+Current crossover rate: 0.7043995600246931
+Current mutation rate: 0.7128743163888001
+State: 3
+Action: 0
+0: 3.0
+1: 3091.487261146497
+2: 0.6973555644244461
+3: 0.7200030595526881
+4: -1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 261
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.471418840158024E-4
+newQ: 0.21121207675122947
+Current crossover rate: 0.6973555644244461
+Current mutation rate: 0.7200030595526881
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973572878821264
+3: 0.7200012801235617
+4: 2.471418840158024E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 262
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.471585588781433E-4
+newQ: 0.21100580784565579
+Current crossover rate: 0.6973572878821264
+Current mutation rate: 0.7200012801235617
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973590114603494
+3: 0.7199995005787738
+4: 2.471585588781433E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 263
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.471752349947253E-4
+newQ: 0.21079974554251002
+Current crossover rate: 0.6973590114603494
+Current mutation rate: 0.7199995005787738
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973607351591247
+3: 0.7199977209183164
+4: 2.471752349947253E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 264
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.471919123656563E-4
+newQ: 0.21059388963521483
+Current crossover rate: 0.6973607351591247
+Current mutation rate: 0.7199977209183164
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973624589784619
+3: 0.7199959411421811
+4: 2.471919123656563E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 265
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.472085909910493E-4
+newQ: 0.182555337431231
+Current crossover rate: 0.6973624589784619
+Current mutation rate: 0.7199959411421811
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.697360735038553
+3: 0.7199977210340025
+4: 2.472085909910493E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 266
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.471919111110843E-4
+newQ: 0.21038823958380184
+Current crossover rate: 0.697360735038553
+Current mutation rate: 0.7199977210340025
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973624588578813
+3: 0.7199959412578759
+4: 2.471919111110843E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 267
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.472085897363841E-4
+newQ: 0.18290655140649334
+Current crossover rate: 0.6973624588578813
+Current mutation rate: 0.7199959412578759
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973607349179815
+3: 0.7199977211496884
+4: 2.472085897363841E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 268
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.471919098565123E-4
+newQ: 0.21018279518241517
+Current crossover rate: 0.6973607349179815
+Current mutation rate: 0.7199977211496884
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973624587373006
+3: 0.7199959413735706
+4: 2.471919098565123E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 269
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.472085884817177E-4
+newQ: 0.2099775565590024
+Current crossover rate: 0.6973624587373006
+Current mutation rate: 0.7199959413735706
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973641826771915
+3: 0.7199941614817669
+4: 2.472085884817177E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 270
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.472252683614973E-4
+newQ: 0.20977252350781062
+Current crossover rate: 0.6973641826771915
+Current mutation rate: 0.7199941614817669
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973659067376636
+3: 0.719992381474269
+4: 2.472252683614973E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 271
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.4724194949596215E-4
+newQ: 0.20956769582329274
+Current crossover rate: 0.6973659067376636
+Current mutation rate: 0.719992381474269
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973676309187266
+3: 0.7199906013510688
+4: 2.4724194949596215E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 272
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.4725863188521883E-4
+newQ: 0.20936307330010714
+Current crossover rate: 0.6973676309187266
+Current mutation rate: 0.7199906013510688
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973693552203899
+3: 0.7199888211121582
+4: 2.4725863188521883E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 273
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.4727531552937946E-4
+newQ: 0.20915865573311762
+Current crossover rate: 0.6973693552203899
+Current mutation rate: 0.7199888211121582
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973710796426634
+3: 0.7199870407575291
+4: 2.4727531552937946E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 274
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.4729200042855837E-4
+newQ: 0.20895444291739307
+Current crossover rate: 0.6973710796426634
+Current mutation rate: 0.7199870407575291
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973728041855567
+3: 0.7199852602871731
+4: 2.4729200042855837E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 275
+Parent Fitness:1173.4687499990282
+Current Fitness:3091.487261146497
+Difference Fitness:-1918.0185111474689
+Reward: -1.0
+newQ: 0.1885753540590452
+Current crossover rate: 0.6973728041855567
+Current mutation rate: 0.7199852602871731
+State: 3
+Action: 0
+0: 3.0
+1: 3091.487261146497
+2: 0.6903990761437011
+3: 0.7271851128900448
+4: -1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 276
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 1.798326517744697E-4
+newQ: 0.18839037535802167
+Current crossover rate: 0.6903990761437011
+Current mutation rate: 0.7271851128900448
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6904003177066675
+3: 0.727183805173773
+4: 1.798326517744697E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 277
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 1.798444058710802E-4
+newQ: 0.18820558187078107
+Current crossover rate: 0.6904003177066675
+Current mutation rate: 0.727183805173773
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6904015593530171
+3: 0.727182497374379
+4: 1.798444058710802E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 278
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 1.7985616080413048E-4
+newQ: 0.18802097341212637
+Current crossover rate: 0.6904015593530171
+Current mutation rate: 0.727182497374379
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6904028010827559
+3: 0.7271811894918572
+4: 1.7985616080413048E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 279
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 1.798679165736883E-4
+newQ: 0.1878365497970457
+Current crossover rate: 0.6904028010827559
+Current mutation rate: 0.7271811894918572
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6904040428958902
+3: 0.7271798815262019
+4: 1.798679165736883E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 280
+Parent Fitness:3208.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:117.0
+Reward: 1.0
+newQ: 0.20787981880110476
+Current crossover rate: 0.6904040428958902
+Current mutation rate: 0.7271798815262019
+State: 2
+Action: 0
+0: 2.0
+1: 3091.487261146497
+2: 0.6973080833248491
+3: 0.7199080827109399
+4: 1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 281
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.452424936063791E-4
+newQ: 0.2076768438321758
+Current crossover rate: 0.6973080833248491
+Current mutation rate: 0.7199080827109399
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973097934205806
+3: 0.7199063171904062
+4: 2.452424936063791E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 282
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.45259040315674E-4
+newQ: 0.20747407216914993
+Current crossover rate: 0.6973097934205806
+Current mutation rate: 0.7199063171904062
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.697311503635888
+3: 0.7199045515550815
+4: 2.45259040315674E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 283
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.4527558826857425E-4
+newQ: 0.20727150360874613
+Current crossover rate: 0.697311503635888
+Current mutation rate: 0.7199045515550815
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973132139707806
+3: 0.7199027858049577
+4: 2.4527558826857425E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 284
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.452921374651884E-4
+newQ: 0.20706913794788667
+Current crossover rate: 0.6973132139707806
+Current mutation rate: 0.7199027858049577
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.697314924425268
+3: 0.7199010199400268
+4: 2.452921374651884E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 285
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.453086879056266E-4
+newQ: 0.2068669749836969
+Current crossover rate: 0.697314924425268
+Current mutation rate: 0.7199010199400268
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973166349993596
+3: 0.7198992539602805
+4: 2.453086879056266E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 286
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.453252395899963E-4
+newQ: 0.20666501451350502
+Current crossover rate: 0.6973166349993596
+Current mutation rate: 0.7198992539602805
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973183456930651
+3: 0.719897487865711
+4: 2.453252395899963E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 287
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.453417925184098E-4
+newQ: 0.2064632563348419
+Current crossover rate: 0.6973183456930651
+Current mutation rate: 0.719897487865711
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.697320056506394
+3: 0.71989572165631
+4: 2.453417925184098E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 288
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.453583466909781E-4
+newQ: 0.20626170024544085
+Current crossover rate: 0.697320056506394
+Current mutation rate: 0.71989572165631
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.6973217674393557
+3: 0.7198939553320695
+4: 2.453583466909781E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 289
+Parent Fitness:3091.487261146497
+Current Fitness:3091.487261146497
+Difference Fitness:0.0
+Reward: 2.4537490210780775E-4
+newQ: 0.20606034604323756
+Current crossover rate: 0.6973217674393557
+Current mutation rate: 0.7198939553320695
+State: 1
+Action: 0
+0: 1.0
+1: 3091.487261146497
+2: 0.69732347849196
+3: 0.7198921888929812
+4: 2.4537490210780775E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 290
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.4539145876901087E-4
+newQ: 0.18316847478236037
+Current crossover rate: 0.69732347849196
+Current mutation rate: 0.7198921888929812
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973217673197037
+3: 0.7198939554469251
+4: 2.4539145876901087E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 291
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.453749008633254E-4
+newQ: 0.20585919319521157
+Current crossover rate: 0.6973217673197037
+Current mutation rate: 0.7198939554469251
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.697323478372299
+3: 0.7198921890078457
+4: 2.453749008633254E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 292
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.4539145752443655E-4
+newQ: 0.20565824183116685
+Current crossover rate: 0.697323478372299
+Current mutation rate: 0.7198921890078457
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973251895445464
+3: 0.7198904224539106
+4: 2.4539145752443655E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 293
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.4540801543003195E-4
+newQ: 0.20545749174964428
+Current crossover rate: 0.6973251895445464
+Current mutation rate: 0.7198904224539106
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973269008364551
+3: 0.7198886557851115
+4: 2.4540801543003195E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 294
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.454245745802164E-4
+newQ: 0.20525694274938625
+Current crossover rate: 0.6973269008364551
+Current mutation rate: 0.7198886557851115
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973286122480349
+3: 0.7198868890014406
+4: 2.454245745802164E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 295
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.45441134975103E-4
+newQ: 0.20505659462933637
+Current crossover rate: 0.6973286122480349
+Current mutation rate: 0.7198868890014406
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973303237792953
+3: 0.7198851221028897
+4: 2.45441134975103E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 296
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.454576966148014E-4
+newQ: 0.20485644718863932
+Current crossover rate: 0.6973303237792953
+Current mutation rate: 0.7198851221028897
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973320354302458
+3: 0.7198833550894507
+4: 2.454576966148014E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 297
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.454742594994219E-4
+newQ: 0.20465650022664067
+Current crossover rate: 0.6973320354302458
+Current mutation rate: 0.7198833550894507
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.697333747200896
+3: 0.7198815879611156
+4: 2.454742594994219E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 298
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.454908236290754E-4
+newQ: 0.18339848860749192
+Current crossover rate: 0.697333747200896
+Current mutation rate: 0.7198815879611156
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973320353105366
+3: 0.719883355204355
+4: 2.454908236290754E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 299
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.4547425825428013E-4
+newQ: 0.2044567532115791
+Current crossover rate: 0.6973320353105366
+Current mutation rate: 0.719883355204355
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973337470811778
+3: 0.7198815880760285
+4: 2.4547425825428013E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 300
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.454908223838403E-4
+newQ: 0.2042572062748152
+Current crossover rate: 0.6973337470811778
+Current mutation rate: 0.7198815880760285
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973354589715283
+3: 0.7198798208327978
+4: 2.454908223838403E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 301
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.455073877585423E-4
+newQ: 0.18361631590231875
+Current crossover rate: 0.6973354589715283
+Current mutation rate: 0.7198798208327978
+State: 1
+Action: 1
+0: 1.0
+1: 3052.487261146497
+2: 0.697333746961459
+3: 0.7198815881909408
+4: 2.455073877585423E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 302
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.4549082113858753E-4
+newQ: 0.20405785888496314
+Current crossover rate: 0.697333746961459
+Current mutation rate: 0.7198815881909408
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973354588518005
+3: 0.7198798209477187
+4: 2.4549082113858753E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 303
+Parent Fitness:3052.487261146497
+Current Fitness:3052.487261146497
+Difference Fitness:0.0
+Reward: 2.4550738651319624E-4
+newQ: 0.20385871117380844
+Current crossover rate: 0.6973354588518005
+Current mutation rate: 0.7198798209477187
+State: 1
+Action: 0
+0: 1.0
+1: 3052.487261146497
+2: 0.6973371708618608
+3: 0.7198780535895843
+4: 2.4550738651319624E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 304
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4552395313305776E-4
+newQ: 0.1838222155756374
+Current crossover rate: 0.6973371708618608
+Current mutation rate: 0.7198780535895843
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.6973354587320721
+3: 0.7198798210626391
+4: 2.4552395313305776E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 305
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4550738526783354E-4
+newQ: 0.20365976261034
+Current crossover rate: 0.6973354587320721
+Current mutation rate: 0.7198798210626391
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973371707421234
+3: 0.7198780537045134
+4: 2.4550738526783354E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 306
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4552395188760177E-4
+newQ: 0.2034610133267674
+Current crossover rate: 0.6973371707421234
+Current mutation rate: 0.7198780537045134
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973388828719029
+3: 0.7198762862314672
+4: 2.4552395188760177E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 307
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4554051975272945E-4
+newQ: 0.20326246312383567
+Current crossover rate: 0.6973388828719029
+Current mutation rate: 0.7198762862314672
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973405951214204
+3: 0.7198745186434924
+4: 2.4554051975272945E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 308
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.455570888633318E-4
+newQ: 0.2030641118024891
+Current crossover rate: 0.6973405951214204
+Current mutation rate: 0.7198745186434924
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973423074906853
+3: 0.7198727509405809
+4: 2.455570888633318E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 309
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.455736592195135E-4
+newQ: 0.20286595916387098
+Current crossover rate: 0.6973423074906853
+Current mutation rate: 0.7198727509405809
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973440199797071
+3: 0.7198709831227247
+4: 2.455736592195135E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 310
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.455902308213875E-4
+newQ: 0.20266800500932353
+Current crossover rate: 0.6973440199797071
+Current mutation rate: 0.7198709831227247
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973457325884953
+3: 0.7198692151899156
+4: 2.455902308213875E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 311
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4560680366906174E-4
+newQ: 0.20247024914038758
+Current crossover rate: 0.6973457325884953
+Current mutation rate: 0.7198692151899156
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973474453170596
+3: 0.7198674471421456
+4: 2.4560680366906174E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 312
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.456233777626471E-4
+newQ: 0.20227269135880244
+Current crossover rate: 0.6973474453170596
+Current mutation rate: 0.7198674471421456
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973491581654095
+3: 0.7198656789794065
+4: 2.456233777626471E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 313
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4563995310225464E-4
+newQ: 0.20207533146650566
+Current crossover rate: 0.6973491581654095
+Current mutation rate: 0.7198656789794065
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973508711335547
+3: 0.7198639107016902
+4: 2.4563995310225464E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 314
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.456565296879943E-4
+newQ: 0.20187816926563293
+Current crossover rate: 0.6973508711335547
+Current mutation rate: 0.7198639107016902
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973525842215045
+3: 0.7198621423089887
+4: 2.456565296879943E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 315
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4567310751997585E-4
+newQ: 0.20168120455851768
+Current crossover rate: 0.6973525842215045
+Current mutation rate: 0.7198621423089887
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973542974292686
+3: 0.7198603738012938
+4: 2.4567310751997585E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 316
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4568968659830826E-4
+newQ: 0.20148443714769113
+Current crossover rate: 0.6973542974292686
+Current mutation rate: 0.7198603738012938
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973560107568564
+3: 0.7198586051785975
+4: 2.4568968659830826E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 317
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.457062669231014E-4
+newQ: 0.2012878668358819
+Current crossover rate: 0.6973560107568564
+Current mutation rate: 0.7198586051785975
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973577242042777
+3: 0.7198568364408916
+4: 2.457062669231014E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 318
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4572284849446846E-4
+newQ: 0.2010914934260159
+Current crossover rate: 0.6973577242042777
+Current mutation rate: 0.7198568364408916
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973594377715417
+3: 0.7198550675881681
+4: 2.4572284849446846E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 319
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.457394313125149E-4
+newQ: 0.20089531672121613
+Current crossover rate: 0.6973594377715417
+Current mutation rate: 0.7198550675881681
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.6973611514586584
+3: 0.7198532986204187
+4: 2.457394313125149E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 320
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 2.4575601537735414E-4
+newQ: 0.20069933652480246
+Current crossover rate: 0.6973611514586584
+Current mutation rate: 0.7198532986204187
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.6973628652656371
+3: 0.7198515295376354
+4: 2.4575601537735414E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 321
+Parent Fitness:1172.4615384605524
+Current Fitness:3013.487261146497
+Difference Fitness:-1841.0257226859446
+Reward: -1.0
+newQ: 0.16394577126412466
+Current crossover rate: 0.6973628652656371
+Current mutation rate: 0.7198515295376354
+State: 3
+Action: 0
+0: 3.0
+1: 3013.487261146497
+2: 0.7043364939182934
+3: 0.712653014242259
+4: -1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 322
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1326002078845835E-4
+newQ: 0.16448640843322918
+Current crossover rate: 0.7043364939182934
+Current mutation rate: 0.712653014242259
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043342875136461
+3: 0.7126552466992396
+4: 3.1326002078845835E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 323
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.132382172653181E-4
+newQ: 0.20050490195262297
+Current crossover rate: 0.7043342875136461
+Current mutation rate: 0.7126552466992396
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.704336493757812
+3: 0.7126530143906497
+4: 3.132382172653181E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 324
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.132600190627366E-4
+newQ: 0.2003106622510516
+Current crossover rate: 0.704336493757812
+Current mutation rate: 0.7126530143906497
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.7043387001624466
+3: 0.7126507819336809
+4: 3.132600190627366E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 325
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.132818225857403E-4
+newQ: 0.20011661722525226
+Current crossover rate: 0.7043387001624466
+Current mutation rate: 0.7126507819336809
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043409067275637
+3: 0.7126485493283227
+4: 3.132818225857403E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 326
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.133036278344992E-4
+newQ: 0.19992276668058367
+Current crossover rate: 0.7043409067275637
+Current mutation rate: 0.7126485493283227
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043431134531768
+3: 0.7126463165745639
+4: 3.133036278344992E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 327
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.133254348091741E-4
+newQ: 0.19972911042259928
+Current crossover rate: 0.7043431134531768
+Current mutation rate: 0.7126463165745639
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043453203392996
+3: 0.7126440836723938
+4: 3.133254348091741E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 328
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1334724350993054E-4
+newQ: 0.19953564825704687
+Current crossover rate: 0.7043453203392996
+Current mutation rate: 0.7126440836723938
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043475273859457
+3: 0.7126418506218016
+4: 3.1334724350993054E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 329
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1336905393693047E-4
+newQ: 0.19934237998986853
+Current crossover rate: 0.7043475273859457
+Current mutation rate: 0.7126418506218016
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043497345931287
+3: 0.7126396174227764
+4: 3.1336905393693047E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 330
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1339086609033615E-4
+newQ: 0.19914930542720047
+Current crossover rate: 0.7043497345931287
+Current mutation rate: 0.7126396174227764
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043519419608621
+3: 0.7126373840753072
+4: 3.1339086609033615E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 331
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.134126799703141E-4
+newQ: 0.19895642437537267
+Current crossover rate: 0.7043519419608621
+Current mutation rate: 0.7126373840753072
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043541494891599
+3: 0.7126351505793832
+4: 3.134126799703141E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 332
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.134344955770285E-4
+newQ: 0.19876373664090885
+Current crossover rate: 0.7043541494891599
+Current mutation rate: 0.7126351505793832
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043563571780355
+3: 0.7126329169349936
+4: 3.134344955770285E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 333
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.134563129106449E-4
+newQ: 0.19857124203052617
+Current crossover rate: 0.7043563571780355
+Current mutation rate: 0.7126329169349936
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043585650275024
+3: 0.7126306831421276
+4: 3.134563129106449E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 334
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1347813197132315E-4
+newQ: 0.19837894035113507
+Current crossover rate: 0.7043585650275024
+Current mutation rate: 0.7126306831421276
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043607730375744
+3: 0.7126284492007743
+4: 3.1347813197132315E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 335
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.134999527592297E-4
+newQ: 0.19818683140983911
+Current crossover rate: 0.7043607730375744
+Current mutation rate: 0.7126284492007743
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.704362981208265
+3: 0.7126262151109226
+4: 3.134999527592297E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 336
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.135217752745256E-4
+newQ: 0.19799491501393476
+Current crossover rate: 0.704362981208265
+Current mutation rate: 0.7126262151109226
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.704365189539588
+3: 0.712623980872562
+4: 3.135217752745256E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 337
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1354359951737965E-4
+newQ: 0.19780319097091117
+Current crossover rate: 0.704365189539588
+Current mutation rate: 0.712623980872562
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043673980315571
+3: 0.7126217464856813
+4: 3.1354359951737965E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 338
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.13565425487955E-4
+newQ: 0.19761165908845002
+Current crossover rate: 0.7043673980315571
+Current mutation rate: 0.7126217464856813
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043696066841858
+3: 0.7126195119502698
+4: 3.13565425487955E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 339
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.135872531864137E-4
+newQ: 0.1974203191744253
+Current crossover rate: 0.7043696066841858
+Current mutation rate: 0.7126195119502698
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043718154974877
+3: 0.7126172772663166
+4: 3.135872531864137E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 340
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.136090826129201E-4
+newQ: 0.19722917103690313
+Current crossover rate: 0.7043718154974877
+Current mutation rate: 0.7126172772663166
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043740244714765
+3: 0.7126150424338108
+4: 3.136090826129201E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 341
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.136309137676363E-4
+newQ: 0.19703821448414158
+Current crossover rate: 0.7043740244714765
+Current mutation rate: 0.7126150424338108
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043762336061657
+3: 0.7126128074527416
+4: 3.136309137676363E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 342
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1365274665072994E-4
+newQ: 0.19684744932459045
+Current crossover rate: 0.7043762336061657
+Current mutation rate: 0.7126128074527416
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043784429015691
+3: 0.712610572323098
+4: 3.1365274665072994E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 343
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1367458126236203E-4
+newQ: 0.1966568753668911
+Current crossover rate: 0.7043784429015691
+Current mutation rate: 0.712610572323098
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043806523577004
+3: 0.7126083370448693
+4: 3.1367458126236203E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 344
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.136964176027001E-4
+newQ: 0.1964664924198763
+Current crossover rate: 0.7043806523577004
+Current mutation rate: 0.7126083370448693
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043828619745731
+3: 0.7126061016180445
+4: 3.136964176027001E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 345
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.137182556719065E-4
+newQ: 0.16493581798565568
+Current crossover rate: 0.7043828619745731
+Current mutation rate: 0.7126061016180445
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043806521969452
+3: 0.7126083371934763
+4: 3.137182556719065E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 346
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1369641587366653E-4
+newQ: 0.19627629985577388
+Current crossover rate: 0.7043806521969452
+Current mutation rate: 0.7126083371934763
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043828618138053
+3: 0.7126061017666633
+4: 3.1369641587366653E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 347
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1371825394273744E-4
+newQ: 0.19608629792099697
+Current crossover rate: 0.7043828618138053
+Current mutation rate: 0.7126061017666633
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043850715914205
+3: 0.7126038661912434
+4: 3.1371825394273744E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 348
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.13740093740843E-4
+newQ: 0.19589648642495078
+Current crossover rate: 0.7043850715914205
+Current mutation rate: 0.7126038661912434
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043872815298045
+3: 0.7126016304672056
+4: 3.13740093740843E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 349
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.137619352681442E-4
+newQ: 0.19570686517723118
+Current crossover rate: 0.7043872815298045
+Current mutation rate: 0.7126016304672056
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043894916289708
+3: 0.7125993945945391
+4: 3.137619352681442E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 350
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1378377852480657E-4
+newQ: 0.19551743398762444
+Current crossover rate: 0.7043894916289708
+Current mutation rate: 0.7125993945945391
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043917018889331
+3: 0.712597158573233
+4: 3.1378377852480657E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 351
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.13805623510991E-4
+newQ: 0.19532819266610704
+Current crossover rate: 0.7043917018889331
+Current mutation rate: 0.712597158573233
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043939123097052
+3: 0.7125949224032765
+4: 3.13805623510991E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 352
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1382747022686735E-4
+newQ: 0.19513914102284546
+Current crossover rate: 0.7043939123097052
+Current mutation rate: 0.7125949224032765
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043961228913006
+3: 0.7125926860846585
+4: 3.1382747022686735E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 353
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1384931867259655E-4
+newQ: 0.19495027886819605
+Current crossover rate: 0.7043961228913006
+Current mutation rate: 0.7125926860846585
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.704398333633733
+3: 0.7125904496173684
+4: 3.1384931867259655E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 354
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.138711688483442E-4
+newQ: 0.1947616060127048
+Current crossover rate: 0.704398333633733
+Current mutation rate: 0.7125904496173684
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044005445370163
+3: 0.7125882130013951
+4: 3.138711688483442E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 355
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1389302075427567E-4
+newQ: 0.19457312226710718
+Current crossover rate: 0.7044005445370163
+Current mutation rate: 0.7125882130013951
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044027556011637
+3: 0.7125859762367277
+4: 3.1389302075427567E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 356
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.139148743905506E-4
+newQ: 0.1943848274423279
+Current crossover rate: 0.7044027556011637
+Current mutation rate: 0.7125859762367277
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044049668261891
+3: 0.7125837393233554
+4: 3.139148743905506E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 357
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.139367297573359E-4
+newQ: 0.1941967213494807
+Current crossover rate: 0.7044049668261891
+Current mutation rate: 0.7125837393233554
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044071782121063
+3: 0.7125815022612674
+4: 3.139367297573359E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 358
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.13958586854799E-4
+newQ: 0.19400880379986832
+Current crossover rate: 0.7044071782121063
+Current mutation rate: 0.7125815022612674
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044093897589288
+3: 0.7125792650504528
+4: 3.13958586854799E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 359
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1398044568310186E-4
+newQ: 0.19382107460498213
+Current crossover rate: 0.7044093897589288
+Current mutation rate: 0.7125792650504528
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044116014666701
+3: 0.7125770276909005
+4: 3.1398044568310186E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 360
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.140023062424069E-4
+newQ: 0.19363353357650198
+Current crossover rate: 0.7044116014666701
+Current mutation rate: 0.7125770276909005
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044138133353443
+3: 0.7125747901825997
+4: 3.140023062424069E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 361
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1402416853288154E-4
+newQ: 0.19344618052629614
+Current crossover rate: 0.7044138133353443
+Current mutation rate: 0.7125747901825997
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044160253649646
+3: 0.7125725525255396
+4: 3.1402416853288154E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 362
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.140460325546879E-4
+newQ: 0.19325901526642092
+Current crossover rate: 0.7044160253649646
+Current mutation rate: 0.7125725525255396
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.704418237555545
+3: 0.7125703147197093
+4: 3.140460325546879E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 363
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1406789830799257E-4
+newQ: 0.19307203760912064
+Current crossover rate: 0.704418237555545
+Current mutation rate: 0.7125703147197093
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.704420449907099
+3: 0.7125680767650979
+4: 3.1406789830799257E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 364
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.140897657929575E-4
+newQ: 0.19288524736682738
+Current crossover rate: 0.704420449907099
+Current mutation rate: 0.7125680767650979
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044226624196402
+3: 0.7125658386616944
+4: 3.140897657929575E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 365
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1411163500974835E-4
+newQ: 0.19269864435216075
+Current crossover rate: 0.7044226624196402
+Current mutation rate: 0.7125658386616944
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.7044248750931825
+3: 0.7125636004094881
+4: 3.1411163500974835E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 366
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1413350595853036E-4
+newQ: 0.19251222837792775
+Current crossover rate: 0.7044248750931825
+Current mutation rate: 0.7125636004094881
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044270879277396
+3: 0.7125613620084679
+4: 3.1413350595853036E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 367
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1415537863946905E-4
+newQ: 0.1923259992571226
+Current crossover rate: 0.7044270879277396
+Current mutation rate: 0.7125613620084679
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.7044293009233249
+3: 0.7125591234586229
+4: 3.1415537863946905E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 368
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1417725305272646E-4
+newQ: 0.19213995680292653
+Current crossover rate: 0.7044293009233249
+Current mutation rate: 0.7125591234586229
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044315140799523
+3: 0.7125568847599424
+4: 3.1417725305272646E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 369
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.141991291984691E-4
+newQ: 0.19195410082870756
+Current crossover rate: 0.7044315140799523
+Current mutation rate: 0.7125568847599424
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044337273976353
+3: 0.7125546459124154
+4: 3.141991291984691E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 370
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1422100707685917E-4
+newQ: 0.1917684311480204
+Current crossover rate: 0.7044337273976353
+Current mutation rate: 0.7125546459124154
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044359408763877
+3: 0.712552406916031
+4: 3.1422100707685917E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 371
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.142428866880631E-4
+newQ: 0.19158294757460612
+Current crossover rate: 0.7044359408763877
+Current mutation rate: 0.712552406916031
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044381545162232
+3: 0.7125501677707783
+4: 3.142428866880631E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 372
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.142647680322453E-4
+newQ: 0.19139764992239217
+Current crossover rate: 0.7044381545162232
+Current mutation rate: 0.7125501677707783
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044403683171554
+3: 0.7125479284766464
+4: 3.142647680322453E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 373
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.14286651109571E-4
+newQ: 0.19121253800549196
+Current crossover rate: 0.7044403683171554
+Current mutation rate: 0.7125479284766464
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.704442582279198
+3: 0.7125456890336245
+4: 3.14286651109571E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 374
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1430853592020363E-4
+newQ: 0.19102761163820486
+Current crossover rate: 0.704442582279198
+Current mutation rate: 0.7125456890336245
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044447964023647
+3: 0.7125434494417016
+4: 3.1430853592020363E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 375
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1433042246430836E-4
+newQ: 0.19084287063501595
+Current crossover rate: 0.7044447964023647
+Current mutation rate: 0.7125434494417016
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044470106866693
+3: 0.7125412097008667
+4: 3.1433042246430836E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 376
+Parent Fitness:3208.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:195.0
+Reward: 1.0
+newQ: 0.21082601322231562
+Current crossover rate: 0.7044470106866693
+Current mutation rate: 0.7125412097008667
+State: 2
+Action: 0
+0: 2.0
+1: 3013.487261146497
+2: 0.711491480793536
+3: 0.705415797603858
+4: 1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 377
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.8398759190929834E-4
+newQ: 0.21062286696093147
+Current crossover rate: 0.711491480793536
+Current mutation rate: 0.705415797603858
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.7114942128325397
+3: 0.7054130888947238
+4: 3.8398759190929834E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 378
+Parent Fitness:1172.4687499990282
+Current Fitness:3013.487261146497
+Difference Fitness:-1841.0185111474689
+Reward: -1.0
+newQ: 0.19021040962171284
+Current crossover rate: 0.7114942128325397
+Current mutation rate: 0.7054130888947238
+State: 3
+Action: 0
+0: 3.0
+1: 3013.487261146497
+2: 0.7043792707042142
+3: 0.712467219783671
+4: -1.0
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 379
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.122576119209941E-4
+newQ: 0.19002644436432956
+Current crossover rate: 0.7043792707042142
+Current mutation rate: 0.712467219783671
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043814701821038
+3: 0.7124649950505447
+4: 3.122576119209941E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 380
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.122793541475233E-4
+newQ: 0.18984266350704818
+Current crossover rate: 0.7043814701821038
+Current mutation rate: 0.7124649950505447
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043836698200097
+3: 0.7124627701694597
+4: 3.122793541475233E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 381
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.123010980947894E-4
+newQ: 0.18965906686550305
+Current crossover rate: 0.7043836698200097
+Current mutation rate: 0.7124627701694597
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043858696179452
+3: 0.7124605451404049
+4: 3.123010980947894E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 382
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1232284376295325E-4
+newQ: 0.1894756542555128
+Current crossover rate: 0.7043858696179452
+Current mutation rate: 0.7124605451404049
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043880695759244
+3: 0.7124583199633696
+4: 3.1232284376295325E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 383
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1234459115218275E-4
+newQ: 0.18929242549308034
+Current crossover rate: 0.7043880695759244
+Current mutation rate: 0.7124583199633696
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043902696939603
+3: 0.712456094638343
+4: 3.1234459115218275E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 384
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1236634026263644E-4
+newQ: 0.1891093803943925
+Current crossover rate: 0.7043902696939603
+Current mutation rate: 0.712456094638343
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.704392469972067
+3: 0.7124538691653143
+4: 3.1236634026263644E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 385
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.12388091094481E-4
+newQ: 0.18892651877582
+Current crossover rate: 0.704392469972067
+Current mutation rate: 0.7124538691653143
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043946704102576
+3: 0.7124516435442725
+4: 3.12388091094481E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 386
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.124098436478761E-4
+newQ: 0.18874384045391715
+Current crossover rate: 0.7043946704102576
+Current mutation rate: 0.7124516435442725
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043968710085461
+3: 0.7124494177752068
+4: 3.124098436478761E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 387
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.124315979229886E-4
+newQ: 0.1885613452454217
+Current crossover rate: 0.7043968710085461
+Current mutation rate: 0.7124494177752068
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7043990717669459
+3: 0.7124471918581063
+4: 3.124315979229886E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 388
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.124533539199814E-4
+newQ: 0.18837903296725467
+Current crossover rate: 0.7043990717669459
+Current mutation rate: 0.7124471918581063
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044012726854707
+3: 0.7124449657929605
+4: 3.124533539199814E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 389
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1247511163901785E-4
+newQ: 0.18819690343652018
+Current crossover rate: 0.7044012726854707
+Current mutation rate: 0.7124449657929605
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044034737641338
+3: 0.7124427395797582
+4: 3.1247511163901785E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 390
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.124968710802578E-4
+newQ: 0.18801495647050526
+Current crossover rate: 0.7044034737641338
+Current mutation rate: 0.7124427395797582
+State: 1
+Action: 1
+0: 1.0
+1: 3013.487261146497
+2: 0.7044056750029491
+3: 0.7124405132184888
+4: 3.124968710802578E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 391
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1251863224387E-4
+newQ: 0.18783319188667963
+Current crossover rate: 0.7044056750029491
+Current mutation rate: 0.7124405132184888
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.70440787640193
+3: 0.7124382867091413
+4: 3.1251863224387E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 392
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1254039513001317E-4
+newQ: 0.18765160950269555
+Current crossover rate: 0.70440787640193
+Current mutation rate: 0.7124382867091413
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044100779610902
+3: 0.712436060051705
+4: 3.1254039513001317E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 393
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.125621597388539E-4
+newQ: 0.18747020913638762
+Current crossover rate: 0.7044100779610902
+Current mutation rate: 0.712436060051705
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044122796804433
+3: 0.7124338332461689
+4: 3.125621597388539E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 394
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.125839260705543E-4
+newQ: 0.18728899060577264
+Current crossover rate: 0.7044122796804433
+Current mutation rate: 0.7124338332461689
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044144815600029
+3: 0.7124316062925223
+4: 3.125839260705543E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 395
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.126056941252798E-4
+newQ: 0.18710795372904937
+Current crossover rate: 0.7044144815600029
+Current mutation rate: 0.7124316062925223
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044166835997825
+3: 0.7124293791907543
+4: 3.126056941252798E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 396
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.126274639031923E-4
+newQ: 0.18692709832459836
+Current crossover rate: 0.7044166835997825
+Current mutation rate: 0.7124293791907543
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044188857997957
+3: 0.712427151940854
+4: 3.126274639031923E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 397
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1264923540445414E-4
+newQ: 0.18674642421098184
+Current crossover rate: 0.7044188857997957
+Current mutation rate: 0.712427151940854
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044210881600563
+3: 0.7124249245428107
+4: 3.1264923540445414E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 398
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.126710086292328E-4
+newQ: 0.18656593120694345
+Current crossover rate: 0.7044210881600563
+Current mutation rate: 0.7124249245428107
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044232906805777
+3: 0.7124226969966134
+4: 3.126710086292328E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 399
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.126927835776882E-4
+newQ: 0.18638561913140808
+Current crossover rate: 0.7044232906805777
+Current mutation rate: 0.7124226969966134
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044254933613735
+3: 0.7124204693022513
+4: 3.126927835776882E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 400
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1271456024998254E-4
+newQ: 0.18620548780348167
+Current crossover rate: 0.7044254933613735
+Current mutation rate: 0.7124204693022513
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044276962024574
+3: 0.7124182414597137
+4: 3.1271456024998254E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 401
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1273633864628336E-4
+newQ: 0.18602553704245112
+Current crossover rate: 0.7044276962024574
+Current mutation rate: 0.7124182414597137
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044298992038429
+3: 0.7124160134689894
+4: 3.1273633864628336E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 402
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.127581187667516E-4
+newQ: 0.185845766667784
+Current crossover rate: 0.7044298992038429
+Current mutation rate: 0.7124160134689894
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044321023655437
+3: 0.7124137853300678
+4: 3.127581187667516E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 403
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1277990061155057E-4
+newQ: 0.18566617649912842
+Current crossover rate: 0.7044321023655437
+Current mutation rate: 0.7124137853300678
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044343056875733
+3: 0.7124115570429381
+4: 3.1277990061155057E-4
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 404
+Parent Fitness:3013.487261146497
+Current Fitness:3013.487261146497
+Difference Fitness:0.0
+Reward: 3.1280168418084563E-4
+newQ: 0.1854867663563129
+Current crossover rate: 0.7044343056875733
+Current mutation rate: 0.7124115570429381
+State: 1
+Action: 0
+0: 1.0
+1: 3013.487261146497
+2: 0.7044365091699454
+3: 0.7124093286075894
+4: 3.1280168418084563E-4
+-------------------------------------------------------
